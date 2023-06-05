@@ -1,4 +1,4 @@
-package simpleSet
+package simpleset
 
 import (
 	"testing"

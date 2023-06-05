@@ -5,6 +5,9 @@ simpleSet
 A simple golang set because who wants to reinvent wheels all the time
 when you really just want to solve problems?
 
+## Status
+[![Go Tests](https://github.com/sam-caldwell/simpleSet/actions/workflows/go-tests.yaml/badge.svg)](https://github.com/sam-caldwell/simpleSet/actions/workflows/go-tests.yaml)
+
 ## Methods
 
 ### `.Add(item string) error`

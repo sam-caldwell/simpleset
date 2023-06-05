@@ -18,7 +18,7 @@ when you really just want to solve problems?
 
 ## Methods
 
-### `.Add(item string) error`
+### `.Add(item any) error`
 
 > Add a new item to the set and throw an error if it already exists.
 
@@ -26,11 +26,11 @@ when you really just want to solve problems?
 
 > Return a count of records
 
-### `.Delete(item string) error`
+### `.Delete(item any) error`
 
 > Delete an existing
 
-### `.Has(item string) bool`
+### `.Has(item any) bool`
 
 > Return true if item exists or false otherwise.
 
